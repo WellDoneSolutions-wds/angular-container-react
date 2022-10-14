@@ -12,8 +12,7 @@
     "noFallthroughCasesInSwitch": true,
     "sourceMap": true,
     "declaration": false,
-    "jsx": "react-jsx",
-
+    "jsx": "react",
     "downlevelIteration": true,
     "experimentalDecorators": true,
     "moduleResolution": "node",
